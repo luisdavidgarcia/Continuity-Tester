@@ -1,6 +1,6 @@
 <h1>Continuity-Tester</h1>
 
-<img src="Ctgallery.png">
+<img src="CTgallery.png">
 
 <h2>Tools</h2>
 <ul>
