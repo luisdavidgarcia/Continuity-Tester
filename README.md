@@ -10,8 +10,8 @@
   <li>LED</li>
   <li>LM358 op-amp</li>
   <li>1 470 &Omega resistor</li>
-  <li>1 10 k&Omega resistor</li>
-  <li>1 2 k&Omega resistor</li>
+  <li>1 10 k &Omega resistor</li>
+  <li>1 2 k &Omega resistor</li>
   
 </ul>  
 
